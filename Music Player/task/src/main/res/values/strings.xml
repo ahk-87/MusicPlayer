@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_song">no songs loaded, click search to load songs</string>
+    <string name="reserved_playlist">All Songs is a reserved name choose another playlist name</string>
+    <string name="add_playlist_name">Add a name to your playlist</string>
+    <string name="at_least_one_song">Add at least one song to your playlist</string>
+    <string name="no_songs">no songs loaded, click search to load songs</string>
+    <string name="songs_not_loaded">Songs cannot be loaded without permission</string>
+</resources>
